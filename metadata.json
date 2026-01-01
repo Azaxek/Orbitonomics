@@ -1,0 +1,7 @@
+{
+  "name": "Orbitonomics - Satellite Disaster Response",
+  "description": "Orbitonomics leverages cutting-edge satellite impact mapping and AI to transform disaster response and public safety routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
